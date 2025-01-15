@@ -1,9 +1,9 @@
 ### Hi! I'm Shane. 👋 
 
-I'm an experienced full stack software engineer with extensive experience in JavaScript and SQL, also proficient in TypeScript and Python.  Most recently I created Harrier, a tool for self-hosting on-demand GitHub Actions CICD workflow runners on AWS.
+I am an experienced full stack software engineer with extensive experience in JavaScript and SQL, also skilled in TypeScript, Python, and cloud environments.
 
 ### Harrier Self-hosted Runner Setup Tool
-Recently, I created [Harrier](https://harrier.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
+Recently, I created [Harrier](https://harrier.github.io/), an open-source tool tool enabling self-hosted on-demand GitHub Actions CI/CD workflow runners on Amazon Web Services.
 
 ### Tech Stack 
 | Category | Technologies |
