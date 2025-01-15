@@ -3,7 +3,7 @@
 I am an experienced full stack software engineer with extensive experience in JavaScript and SQL, also skilled in TypeScript, Python, and cloud environments.
 
 ### Harrier Self-hosted Runner Setup Tool
-Recently, I created [Harrier](https://harrier.github.io/), an open-source tool tool enabling self-hosted on-demand GitHub Actions CI/CD workflow runners on Amazon Web Services.
+Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source tool tool enabling self-hosted on-demand GitHub Actions CI/CD workflow runners on Amazon Web Services.
 
 ### Tech Stack 
 | Category | Technologies |
