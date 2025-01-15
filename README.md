@@ -1,6 +1,7 @@
 ## Hi! I'm Shane Ziegler. 👋 
 
-I am an experienced full stack software engineer with extensive experience in JavaScript and SQL, also skilled in TypeScript, Python, and cloud environments.
+I am an experienced full stack software engineer passionate about solving complex problems, creative problem-solving and always eager to learn new technologies.  I have extensive experience in JavaScript and SQL, also skilled in TypeScript, Python, and cloud environments.
+
 
 ### 🚀 Harrier
 Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source solution for provisioning and orchestrating on-demand self-hosted GitHub Actions runners with a persistent cache to accelerate CI/CD workflow builds.
