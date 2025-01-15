@@ -7,6 +7,8 @@ Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-so
 
 <em>Technologies Used - TypeScript, Node.js and AWS (Lambda, SDK, EC2, API Gateway, VPC, SSM, CloudWatch, S3).</em>
 
+Read the case-study here: [Harrier Case Study](https://harrier-gha-runner.github.io/#/case-study/problem-domain)
+
 ### 📧 How to reach me
 [Linkedin](https://www.linkedin.com/in/shane-ziegler/)  or Email: <shane.a.ziegler@gmail.com>
 
