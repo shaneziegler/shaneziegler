@@ -1,4 +1,4 @@
-## Hi! I'm Shane Ziegler. 👋 
+## 👋 Hi! I'm Shane Ziegler. 
 
 I am an experienced full stack software engineer passionate about solving complex problems, creative problem-solving and always eager to learn new technologies.  I have extensive experience in JavaScript and SQL, also skilled in TypeScript, Python, and cloud environments.
 
