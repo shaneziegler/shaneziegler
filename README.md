@@ -2,10 +2,13 @@
 
 I am an experienced full stack software engineer with extensive experience in JavaScript and SQL, also skilled in TypeScript, Python, and cloud environments.
 
-### 🚀Harrier
+### 🚀 Harrier
 Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source solution for provisioning and orchestrating on-demand self-hosted GitHub Actions runners with a persistent cache to accelerate CI/CD workflow builds.
 
 <em>Technologies Used - TypeScript, Node.js and AWS (Lambda, SDK, EC2, API Gateway, VPC, SSM, CloudWatch, S3).</em>
+
+### 📧 How to reach me
+[Linkedin](https://www.linkedin.com/in/shane-ziegler/)  or Email: <shane.a.ziegler@gmail.com>
 
 ### Tech Stack 
 | Category | Technologies |
